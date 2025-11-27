@@ -80,7 +80,7 @@ void setup() {
   lcd.setCursor(0, 0);
   lcd.print("  VERTICAL FARM");
   lcd.setCursor(0, 1);
-  lcd.print("     MONITORING SYSTEM");
+  lcd.print("MONITORING SYSTEM");
   lcd.setCursor(0, 2);
   lcd.print("  Initializing...");
   delay(2000);
