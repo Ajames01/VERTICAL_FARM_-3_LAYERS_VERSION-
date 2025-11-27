@@ -78,7 +78,7 @@ void setup() {
   lcd.backlight();
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("  VERTICAL FARM");
+  lcd.print(" VERTICAL FARM");
   lcd.setCursor(0, 1);
   lcd.print("MONITORING SYSTEM");
   lcd.setCursor(0, 2);
